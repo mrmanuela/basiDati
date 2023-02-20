@@ -1,0 +1,8 @@
+{
+	"host": "localhost",
+	"username": "utente",
+	"password": "utente",
+	"port": 3306,
+	"database": "BachecaElettronicaAnnunci"
+}
+
